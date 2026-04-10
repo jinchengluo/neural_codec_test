@@ -1,0 +1,16 @@
+data
+
+WavTokenizer/*
+WavTokenizer/WavTokenizer_small_320_24k_4096.ckpt
+WavTokenizer/WavTokenizer_small_600_24k_4096.ckpt
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
